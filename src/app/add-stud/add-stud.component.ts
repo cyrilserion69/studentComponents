@@ -1,5 +1,4 @@
 import { Component, OnInit, Output, EventEmitter } from '@angular/core';
-
 @Component({
   selector: 'add-stud',
   templateUrl: './add-stud.component.html',
@@ -8,8 +7,7 @@ import { Component, OnInit, Output, EventEmitter } from '@angular/core';
 export class AddStudComponent implements OnInit {
 
   constructor() { }
-
   ngOnInit() {
   }
-
+  
 }
